@@ -15,4 +15,5 @@ This project was persued as part of the Data Science Capstone of the MS Data Sci
 4. atts_distributions.html, top10styles.html – interactive graphical outputs
 5. Beer_Recommendation_app_prep.ipynb - This notebook further cleans the beer dataset to remove most brewery and beer names that have non-english keyboard characters for use in the Streamlit application
 6. BRapp.py - this file is the application. Once you have the requirements installed. Run this command in the terminal:
+   
    ```streamlit run BRapp.py```
